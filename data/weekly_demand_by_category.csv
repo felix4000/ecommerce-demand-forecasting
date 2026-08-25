@@ -1,0 +1,417 @@
+week,category,units_sold
+2025-08-04,Suspension,71
+2025-08-11,Suspension,65
+2025-08-18,Suspension,71
+2025-08-25,Suspension,65
+2025-09-01,Suspension,70
+2025-09-08,Suspension,55
+2025-09-15,Suspension,68
+2025-09-22,Suspension,73
+2025-09-29,Suspension,63
+2025-10-06,Suspension,79
+2025-10-13,Suspension,60
+2025-10-20,Suspension,63
+2025-10-27,Suspension,74
+2025-11-03,Suspension,72
+2025-11-10,Suspension,69
+2025-11-17,Suspension,82
+2025-11-24,Suspension,83
+2025-12-01,Suspension,79
+2025-12-08,Suspension,88
+2025-12-15,Suspension,97
+2025-12-22,Suspension,87
+2025-12-29,Suspension,101
+2026-01-05,Suspension,90
+2026-01-12,Suspension,95
+2026-01-19,Suspension,116
+2026-01-26,Suspension,114
+2026-02-02,Suspension,89
+2026-02-09,Suspension,107
+2026-02-16,Suspension,118
+2026-02-23,Suspension,116
+2026-03-02,Suspension,122
+2026-03-09,Suspension,117
+2026-03-16,Suspension,114
+2026-03-23,Suspension,114
+2026-03-30,Suspension,128
+2026-04-06,Suspension,122
+2026-04-13,Suspension,118
+2026-04-20,Suspension,113
+2026-04-27,Suspension,104
+2026-05-04,Suspension,104
+2026-05-11,Suspension,117
+2026-05-18,Suspension,113
+2026-05-25,Suspension,94
+2026-06-01,Suspension,98
+2026-06-08,Suspension,99
+2026-06-15,Suspension,95
+2026-06-22,Suspension,92
+2026-06-29,Suspension,76
+2026-07-06,Suspension,73
+2026-07-13,Suspension,89
+2026-07-20,Suspension,89
+2026-07-27,Suspension,64
+2025-08-04,Braking System,96
+2025-08-11,Braking System,102
+2025-08-18,Braking System,72
+2025-08-25,Braking System,82
+2025-09-01,Braking System,90
+2025-09-08,Braking System,85
+2025-09-15,Braking System,93
+2025-09-22,Braking System,105
+2025-09-29,Braking System,85
+2025-10-06,Braking System,95
+2025-10-13,Braking System,93
+2025-10-20,Braking System,101
+2025-10-27,Braking System,103
+2025-11-03,Braking System,134
+2025-11-10,Braking System,126
+2025-11-17,Braking System,96
+2025-11-24,Braking System,108
+2025-12-01,Braking System,113
+2025-12-08,Braking System,112
+2025-12-15,Braking System,114
+2025-12-22,Braking System,134
+2025-12-29,Braking System,131
+2026-01-05,Braking System,133
+2026-01-12,Braking System,180
+2026-01-19,Braking System,144
+2026-01-26,Braking System,151
+2026-02-02,Braking System,173
+2026-02-09,Braking System,156
+2026-02-16,Braking System,147
+2026-02-23,Braking System,164
+2026-03-02,Braking System,204
+2026-03-09,Braking System,162
+2026-03-16,Braking System,155
+2026-03-23,Braking System,178
+2026-03-30,Braking System,165
+2026-04-06,Braking System,215
+2026-04-13,Braking System,154
+2026-04-20,Braking System,193
+2026-04-27,Braking System,181
+2026-05-04,Braking System,153
+2026-05-11,Braking System,155
+2026-05-18,Braking System,136
+2026-05-25,Braking System,139
+2026-06-01,Braking System,138
+2026-06-08,Braking System,141
+2026-06-15,Braking System,115
+2026-06-22,Braking System,134
+2026-06-29,Braking System,124
+2026-07-06,Braking System,127
+2026-07-13,Braking System,124
+2026-07-20,Braking System,112
+2026-07-27,Braking System,117
+2025-08-04,Engine Parts,32
+2025-08-11,Engine Parts,34
+2025-08-18,Engine Parts,32
+2025-08-25,Engine Parts,31
+2025-09-01,Engine Parts,30
+2025-09-08,Engine Parts,34
+2025-09-15,Engine Parts,31
+2025-09-22,Engine Parts,26
+2025-09-29,Engine Parts,29
+2025-10-06,Engine Parts,31
+2025-10-13,Engine Parts,32
+2025-10-20,Engine Parts,34
+2025-10-27,Engine Parts,31
+2025-11-03,Engine Parts,35
+2025-11-10,Engine Parts,35
+2025-11-17,Engine Parts,42
+2025-11-24,Engine Parts,35
+2025-12-01,Engine Parts,41
+2025-12-08,Engine Parts,40
+2025-12-15,Engine Parts,52
+2025-12-22,Engine Parts,51
+2025-12-29,Engine Parts,39
+2026-01-05,Engine Parts,45
+2026-01-12,Engine Parts,54
+2026-01-19,Engine Parts,54
+2026-01-26,Engine Parts,55
+2026-02-02,Engine Parts,55
+2026-02-09,Engine Parts,60
+2026-02-16,Engine Parts,60
+2026-02-23,Engine Parts,54
+2026-03-02,Engine Parts,50
+2026-03-09,Engine Parts,47
+2026-03-16,Engine Parts,56
+2026-03-23,Engine Parts,46
+2026-03-30,Engine Parts,58
+2026-04-06,Engine Parts,55
+2026-04-13,Engine Parts,67
+2026-04-20,Engine Parts,57
+2026-04-27,Engine Parts,54
+2026-05-04,Engine Parts,44
+2026-05-11,Engine Parts,45
+2026-05-18,Engine Parts,54
+2026-05-25,Engine Parts,48
+2026-06-01,Engine Parts,60
+2026-06-08,Engine Parts,46
+2026-06-15,Engine Parts,46
+2026-06-22,Engine Parts,38
+2026-06-29,Engine Parts,46
+2026-07-06,Engine Parts,37
+2026-07-13,Engine Parts,41
+2026-07-20,Engine Parts,41
+2026-07-27,Engine Parts,37
+2025-08-04,Filters,191
+2025-08-11,Filters,149
+2025-08-18,Filters,182
+2025-08-25,Filters,134
+2025-09-01,Filters,165
+2025-09-08,Filters,150
+2025-09-15,Filters,142
+2025-09-22,Filters,128
+2025-09-29,Filters,152
+2025-10-06,Filters,154
+2025-10-13,Filters,166
+2025-10-20,Filters,180
+2025-10-27,Filters,159
+2025-11-03,Filters,210
+2025-11-10,Filters,175
+2025-11-17,Filters,204
+2025-11-24,Filters,201
+2025-12-01,Filters,203
+2025-12-08,Filters,216
+2025-12-15,Filters,202
+2025-12-22,Filters,221
+2025-12-29,Filters,206
+2026-01-05,Filters,232
+2026-01-12,Filters,241
+2026-01-19,Filters,281
+2026-01-26,Filters,256
+2026-02-02,Filters,259
+2026-02-09,Filters,282
+2026-02-16,Filters,285
+2026-02-23,Filters,266
+2026-03-02,Filters,296
+2026-03-09,Filters,281
+2026-03-16,Filters,270
+2026-03-23,Filters,273
+2026-03-30,Filters,313
+2026-04-06,Filters,270
+2026-04-13,Filters,288
+2026-04-20,Filters,241
+2026-04-27,Filters,302
+2026-05-04,Filters,251
+2026-05-11,Filters,271
+2026-05-18,Filters,248
+2026-05-25,Filters,258
+2026-06-01,Filters,252
+2026-06-08,Filters,230
+2026-06-15,Filters,184
+2026-06-22,Filters,243
+2026-06-29,Filters,209
+2026-07-06,Filters,213
+2026-07-13,Filters,212
+2026-07-20,Filters,184
+2026-07-27,Filters,197
+2025-08-04,Lighting,50
+2025-08-11,Lighting,55
+2025-08-18,Lighting,52
+2025-08-25,Lighting,49
+2025-09-01,Lighting,51
+2025-09-08,Lighting,45
+2025-09-15,Lighting,52
+2025-09-22,Lighting,53
+2025-09-29,Lighting,54
+2025-10-06,Lighting,61
+2025-10-13,Lighting,53
+2025-10-20,Lighting,55
+2025-10-27,Lighting,51
+2025-11-03,Lighting,69
+2025-11-10,Lighting,52
+2025-11-17,Lighting,65
+2025-11-24,Lighting,62
+2025-12-01,Lighting,69
+2025-12-08,Lighting,62
+2025-12-15,Lighting,80
+2025-12-22,Lighting,69
+2025-12-29,Lighting,88
+2026-01-05,Lighting,74
+2026-01-12,Lighting,92
+2026-01-19,Lighting,79
+2026-01-26,Lighting,83
+2026-02-02,Lighting,90
+2026-02-09,Lighting,84
+2026-02-16,Lighting,85
+2026-02-23,Lighting,86
+2026-03-02,Lighting,98
+2026-03-09,Lighting,95
+2026-03-16,Lighting,96
+2026-03-23,Lighting,92
+2026-03-30,Lighting,100
+2026-04-06,Lighting,104
+2026-04-13,Lighting,99
+2026-04-20,Lighting,90
+2026-04-27,Lighting,79
+2026-05-04,Lighting,71
+2026-05-11,Lighting,86
+2026-05-18,Lighting,68
+2026-05-25,Lighting,81
+2026-06-01,Lighting,91
+2026-06-08,Lighting,69
+2026-06-15,Lighting,65
+2026-06-22,Lighting,77
+2026-06-29,Lighting,50
+2026-07-06,Lighting,71
+2026-07-13,Lighting,76
+2026-07-20,Lighting,58
+2026-07-27,Lighting,55
+2025-08-04,Body & Exterior,45
+2025-08-11,Body & Exterior,36
+2025-08-18,Body & Exterior,44
+2025-08-25,Body & Exterior,36
+2025-09-01,Body & Exterior,47
+2025-09-08,Body & Exterior,42
+2025-09-15,Body & Exterior,40
+2025-09-22,Body & Exterior,47
+2025-09-29,Body & Exterior,45
+2025-10-06,Body & Exterior,43
+2025-10-13,Body & Exterior,34
+2025-10-20,Body & Exterior,40
+2025-10-27,Body & Exterior,50
+2025-11-03,Body & Exterior,40
+2025-11-10,Body & Exterior,44
+2025-11-17,Body & Exterior,45
+2025-11-24,Body & Exterior,54
+2025-12-01,Body & Exterior,59
+2025-12-08,Body & Exterior,61
+2025-12-15,Body & Exterior,53
+2025-12-22,Body & Exterior,62
+2025-12-29,Body & Exterior,56
+2026-01-05,Body & Exterior,63
+2026-01-12,Body & Exterior,69
+2026-01-19,Body & Exterior,75
+2026-01-26,Body & Exterior,54
+2026-02-02,Body & Exterior,71
+2026-02-09,Body & Exterior,82
+2026-02-16,Body & Exterior,75
+2026-02-23,Body & Exterior,74
+2026-03-02,Body & Exterior,70
+2026-03-09,Body & Exterior,85
+2026-03-16,Body & Exterior,71
+2026-03-23,Body & Exterior,74
+2026-03-30,Body & Exterior,71
+2026-04-06,Body & Exterior,75
+2026-04-13,Body & Exterior,84
+2026-04-20,Body & Exterior,65
+2026-04-27,Body & Exterior,72
+2026-05-04,Body & Exterior,72
+2026-05-11,Body & Exterior,62
+2026-05-18,Body & Exterior,66
+2026-05-25,Body & Exterior,77
+2026-06-01,Body & Exterior,52
+2026-06-08,Body & Exterior,58
+2026-06-15,Body & Exterior,60
+2026-06-22,Body & Exterior,55
+2026-06-29,Body & Exterior,71
+2026-07-06,Body & Exterior,56
+2026-07-13,Body & Exterior,46
+2026-07-20,Body & Exterior,38
+2026-07-27,Body & Exterior,50
+2025-08-04,Cooling System,34
+2025-08-11,Cooling System,41
+2025-08-18,Cooling System,34
+2025-08-25,Cooling System,33
+2025-09-01,Cooling System,33
+2025-09-08,Cooling System,38
+2025-09-15,Cooling System,36
+2025-09-22,Cooling System,41
+2025-09-29,Cooling System,35
+2025-10-06,Cooling System,39
+2025-10-13,Cooling System,40
+2025-10-20,Cooling System,41
+2025-10-27,Cooling System,37
+2025-11-03,Cooling System,42
+2025-11-10,Cooling System,42
+2025-11-17,Cooling System,43
+2025-11-24,Cooling System,41
+2025-12-01,Cooling System,37
+2025-12-08,Cooling System,55
+2025-12-15,Cooling System,53
+2025-12-22,Cooling System,45
+2025-12-29,Cooling System,58
+2026-01-05,Cooling System,63
+2026-01-12,Cooling System,62
+2026-01-19,Cooling System,54
+2026-01-26,Cooling System,56
+2026-02-02,Cooling System,58
+2026-02-09,Cooling System,68
+2026-02-16,Cooling System,67
+2026-02-23,Cooling System,82
+2026-03-02,Cooling System,54
+2026-03-09,Cooling System,65
+2026-03-16,Cooling System,53
+2026-03-23,Cooling System,69
+2026-03-30,Cooling System,72
+2026-04-06,Cooling System,74
+2026-04-13,Cooling System,65
+2026-04-20,Cooling System,51
+2026-04-27,Cooling System,61
+2026-05-04,Cooling System,63
+2026-05-11,Cooling System,53
+2026-05-18,Cooling System,56
+2026-05-25,Cooling System,49
+2026-06-01,Cooling System,51
+2026-06-08,Cooling System,58
+2026-06-15,Cooling System,55
+2026-06-22,Cooling System,43
+2026-06-29,Cooling System,45
+2026-07-06,Cooling System,47
+2026-07-13,Cooling System,46
+2026-07-20,Cooling System,41
+2026-07-27,Cooling System,44
+2025-08-04,Transmission,15
+2025-08-11,Transmission,11
+2025-08-18,Transmission,14
+2025-08-25,Transmission,13
+2025-09-01,Transmission,15
+2025-09-08,Transmission,15
+2025-09-15,Transmission,12
+2025-09-22,Transmission,15
+2025-09-29,Transmission,14
+2025-10-06,Transmission,15
+2025-10-13,Transmission,14
+2025-10-20,Transmission,15
+2025-10-27,Transmission,18
+2025-11-03,Transmission,17
+2025-11-10,Transmission,17
+2025-11-17,Transmission,17
+2025-11-24,Transmission,21
+2025-12-01,Transmission,17
+2025-12-08,Transmission,18
+2025-12-15,Transmission,18
+2025-12-22,Transmission,22
+2025-12-29,Transmission,25
+2026-01-05,Transmission,22
+2026-01-12,Transmission,21
+2026-01-19,Transmission,28
+2026-01-26,Transmission,26
+2026-02-02,Transmission,26
+2026-02-09,Transmission,25
+2026-02-16,Transmission,28
+2026-02-23,Transmission,27
+2026-03-02,Transmission,25
+2026-03-09,Transmission,26
+2026-03-16,Transmission,24
+2026-03-23,Transmission,24
+2026-03-30,Transmission,26
+2026-04-06,Transmission,30
+2026-04-13,Transmission,23
+2026-04-20,Transmission,28
+2026-04-27,Transmission,23
+2026-05-04,Transmission,20
+2026-05-11,Transmission,26
+2026-05-18,Transmission,28
+2026-05-25,Transmission,21
+2026-06-01,Transmission,19
+2026-06-08,Transmission,23
+2026-06-15,Transmission,19
+2026-06-22,Transmission,22
+2026-06-29,Transmission,22
+2026-07-06,Transmission,20
+2026-07-13,Transmission,20
+2026-07-20,Transmission,19
+2026-07-27,Transmission,19
